@@ -33,6 +33,8 @@ $(document).ready(function() {
 
 ![](images/before-submit.png)
 
+提交表单后：
+
 ![](images/after-submit.png)
 
 ### Not Implemented
